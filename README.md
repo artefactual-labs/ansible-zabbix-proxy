@@ -86,7 +86,7 @@ See the following list of supported Operating systems with the Zabbix releases.
   * RedHat 7.x
   * OracleLinux 7.x
   * Scientific Linux 7.x
-  * Ubuntu 14.04, 16.04
+  * Ubuntu 14.04, 16.04, 18.04
   * Debian 7, 8, 9
 
 ### Zabbix 3.2
@@ -96,7 +96,7 @@ See the following list of supported Operating systems with the Zabbix releases.
   * RedHat 7.x
   * OracleLinux 7.x
   * Scientific Linux 7.x
-  * Ubuntu 14.04, 16.04
+  * Ubuntu 14.04, 16.04, 18.04
   * Debian 7, 8
 
 ### Zabbix 3.0
@@ -106,7 +106,7 @@ See the following list of supported Operating systems with the Zabbix releases.
   * RedHat 5.x, 6.x, 7.x
   * OracleLinux 5.x, 6.x, 7.x
   * Scientific Linux 5.x, 6.x, 7.x
-  * Ubuntu 14.04
+  * Ubuntu 14.04, 16.04, 18.04
   * Debian 7, 8
 
 ### Zabbix 2.4
